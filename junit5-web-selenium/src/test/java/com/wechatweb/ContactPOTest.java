@@ -51,6 +51,9 @@ public class ContactPOTest {
 
   }
 
+  /**
+   * 更新部门信息-重命名
+   */
   @Test
   void updateDepart() {
     String departRename = "企划部一期";
@@ -58,6 +61,9 @@ public class ContactPOTest {
     assertTrue(main.contact().updateDepartName(departRename).searchDepart(departName).getPartyInfo().contains(departName));
   }
 
+  /**
+   * 部门内增加成员
+   */
   @Test
   void addMember() throws IOException, InterruptedException {
     MainPage mainPage = new MainPage();
