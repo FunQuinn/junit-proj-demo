@@ -6,10 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="junit4demo" />
-        <module name="junit5-assertdemo" />
-        <module name="junit5appselenium" />
         <module name="junit5webselenium" />
+        <module name="junit5appselenium" />
+        <module name="junit4demo" />
+        <module name="junit4-demo" />
+        <module name="junit5-app-selenium" />
+        <module name="junit5-web-selenium" />
+        <module name="owner-frame" />
+        <module name="junit5-assertdemo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

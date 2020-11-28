@@ -12,7 +12,6 @@
     <artifactId>junit4-demo</artifactId>
 
     <dependencies>
-
     <!-- https://mvnrepository.com/artifact/junit/junit -->
     <dependency>
         <groupId>junit</groupId>

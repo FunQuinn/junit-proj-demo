@@ -13,6 +13,7 @@
         <module>junit5-assert-demo</module>
         <module>junit5-web-selenium</module>
         <module>junit5-app-selenium</module>
+        <module>owner-frame</module>
     </modules>
 
 
