@@ -1,0 +1,5 @@
+com\junit4suite\SuiteDemoTest.class
+com\junit4case\LoginTest.class
+com\junit4\junit4case\Junit4AnnotationTest.class
+com\junit4case\BaseTest.class
+com\junit4case\BuyTest.class
