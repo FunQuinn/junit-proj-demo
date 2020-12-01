@@ -22,7 +22,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c760ee5-7292-4da2-8e13-817e7ba97859" name="Default Changelist" comment="TDD数据驱动测试用例" />
+    <list default="true" id="7c760ee5-7292-4da2-8e13-817e7ba97859" name="Default Changelist" comment="none">
+      <change afterPath="$PROJECT_DIR$/owner-frame/src/test/java/TDDStepReplaceCaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/owner-frame/src/test/java/TDDStepsReplaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/owner-frame/src/test/resources/framework/search_step_replace.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/owner-frame/src/test/java/TDDStepCaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/owner-frame/src/test/java/TDDStepCaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/owner-frame/src/test/java/TDDStepsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/owner-frame/src/test/java/TDDStepsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/owner-frame/src/test/resources/framework/searchstep.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/owner-frame/src/test/resources/framework/search_step.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +70,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HelenProject" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/owner-frame/src/test/resources/framework" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
@@ -70,8 +78,11 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\junit-proj-demo\owner-frame\src\test\resources\framework" />
+    </key>
   </component>
-  <component name="RunManager" selected="Maven.junit4-demo [install]">
+  <component name="RunManager" selected="JUnit.TDDStepsReplaceTest.searchMethod">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -94,22 +105,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParamXSourceUpgradeTest.search" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TDDStepsReplaceTest.searchMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="owner-frame" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ParamXSourceUpgradeTest" />
-      <option name="METHOD_NAME" value="search(java.lang.String)" />
+      <option name="MAIN_CLASS_NAME" value="TDDStepsReplaceTest" />
+      <option name="METHOD_NAME" value="searchMethod(TDDStepReplaceCaseTest)" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParamXSourceUpgradeTest.searchMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TDDStepsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="owner-frame" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ParamXSourceUpgradeTest" />
-      <option name="METHOD_NAME" value="searchMethod(java.lang.String)" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="TDDStepsTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -151,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TDDStepsReplaceTest.searchMethod" />
+        <item itemvalue="JUnit.TDDStepsTest" />
         <item itemvalue="Maven.junit4-demo [install]" />
         <item itemvalue="JUnit.TDDStepsTest.searchMethod" />
         <item itemvalue="JUnit.ParamTDDTest" />
-        <item itemvalue="JUnit.ParamXSourceUpgradeTest.searchMethod" />
-        <item itemvalue="JUnit.ParamXSourceUpgradeTest.search" />
       </list>
     </recent_temporary>
   </component>
@@ -177,6 +187,11 @@
       <workItem from="1606492002462" duration="36000" />
       <workItem from="1606492154730" duration="4328000" />
       <workItem from="1606536980735" duration="4403000" />
+      <workItem from="1606574831272" duration="445000" />
+      <workItem from="1606575292482" duration="35000" />
+      <workItem from="1606575352530" duration="610000" />
+      <workItem from="1606633244631" duration="2108000" />
+      <workItem from="1606830311463" duration="5378000" />
     </task>
     <task id="LOCAL-00001" summary="TDD数据驱动测试用例">
       <created>1606541394172</created>
@@ -216,26 +231,38 @@
       <screen x="0" y="0" width="1493" height="893" />
     </state>
     <state x="420" y="224" key="#Notifications/0.0.1493.893@0.0.1493.893" timestamp="1606228152930" />
+    <state x="434" y="280" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1606838022715">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state x="434" y="280" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1493.893@0.0.1493.893" timestamp="1606838022715" />
+    <state x="210" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1606838283574">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state x="210" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1493.893@0.0.1493.893" timestamp="1606838283574" />
     <state x="528" y="202" key="FileChooserDialogImpl" timestamp="1606403869873">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
     <state x="528" y="202" key="FileChooserDialogImpl/0.0.1493.893@0.0.1493.893" timestamp="1606403869873" />
-    <state width="1440" height="232" key="GridCell.Tab.0.bottom" timestamp="1606540620879">
+    <state width="1440" height="232" key="GridCell.Tab.0.bottom" timestamp="1606653987031">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state width="1440" height="232" key="GridCell.Tab.0.bottom/0.0.1493.893@0.0.1493.893" timestamp="1606540620879" />
-    <state width="1440" height="232" key="GridCell.Tab.0.center" timestamp="1606540620879">
+    <state width="1440" height="232" key="GridCell.Tab.0.bottom/0.0.1493.893@0.0.1493.893" timestamp="1606653987031" />
+    <state width="1440" height="232" key="GridCell.Tab.0.center" timestamp="1606653987031">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state width="1440" height="232" key="GridCell.Tab.0.center/0.0.1493.893@0.0.1493.893" timestamp="1606540620879" />
-    <state width="1440" height="232" key="GridCell.Tab.0.left" timestamp="1606540620879">
+    <state width="1440" height="232" key="GridCell.Tab.0.center/0.0.1493.893@0.0.1493.893" timestamp="1606653987031" />
+    <state width="1440" height="232" key="GridCell.Tab.0.left" timestamp="1606653987031">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state width="1440" height="232" key="GridCell.Tab.0.left/0.0.1493.893@0.0.1493.893" timestamp="1606540620879" />
-    <state width="1440" height="232" key="GridCell.Tab.0.right" timestamp="1606540620879">
+    <state width="1440" height="232" key="GridCell.Tab.0.left/0.0.1493.893@0.0.1493.893" timestamp="1606653987031" />
+    <state width="1440" height="232" key="GridCell.Tab.0.right" timestamp="1606653987031">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state width="1440" height="232" key="GridCell.Tab.0.right/0.0.1493.893@0.0.1493.893" timestamp="1606540620879" />
+    <state width="1440" height="232" key="GridCell.Tab.0.right/0.0.1493.893@0.0.1493.893" timestamp="1606653987031" />
+    <state x="504" y="76" key="RollbackChangesDialog" timestamp="1606542125388">
+      <screen x="0" y="0" width="1493" height="893" />
+    </state>
+    <state x="504" y="76" key="RollbackChangesDialog/0.0.1493.893@0.0.1493.893" timestamp="1606542125388" />
     <state x="87" y="7" key="SettingsEditor" timestamp="1606487298410">
       <screen x="0" y="0" width="1493" height="893" />
     </state>

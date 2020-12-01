@@ -18,11 +18,16 @@ public class TDDStepCaseTest {
     private ChromeDriver driver;
     private WebElement currentElement;
 
+
+
     public void run(){
         steps.forEach(step->{
             if  (step.keySet().contains("chrome")){
                 driver = new
                         ChromeDriver();
+            }
+            if (step.keySet().contains("quit")){
+                driver.quit();
             }
             if (step.keySet().contains("implicitly_wait")){
                 driver.manage().timeouts().implicitlyWait(

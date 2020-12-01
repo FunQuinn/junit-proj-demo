@@ -12,7 +12,7 @@ import java.util.stream.Stream;
  * @Date 2020/11/27 23:19
  */
 public class TDDStepsTest {
-
+//    通过参数化用例来指明该参数属于这个方法
     @ParameterizedTest
     @MethodSource()
     void searchMethod(TDDStepCaseTest tddStepCaseTest){
@@ -21,14 +21,19 @@ public class TDDStepsTest {
         tddStepCaseTest.run();
     }
 
+
+//    方法传回数据流，将数据转换成流
     static Stream<TDDStepCaseTest> searchMethod() throws IOException {
         ObjectMapper mapper=new ObjectMapper(new YAMLFactory());
 
        TDDStepCaseTest tddStepCaseTest = mapper.readValue(
-                TDDStepsTest.class.getResourceAsStream("/framework/searchstep.yaml"),
+//               通过yaml读取
+                TDDStepsTest.class.getResourceAsStream("/framework/search_step.yaml"),
                 TDDStepCaseTest.class);
         return Stream.of(tddStepCaseTest);
 
     }
+
+
 
 }
