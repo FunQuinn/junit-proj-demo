@@ -9,7 +9,7 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * @Author FunQuinn
- * @Description: 替换yaml文件的变量
+ * @Description: 测试用例裂变&替换yaml文件的变量
  * @Date 2020/12/01 23:01
  */
 public class TDDStepReplaceCaseTest {
@@ -19,8 +19,13 @@ public class TDDStepReplaceCaseTest {
     private WebElement currentElement;
     public int index = 0;
 
+    /**
+     * 测试用例裂变，基于数据自动生成多份测试用例
+     * @return
+     */
+
     //根据data的数量生成多份，每一份存一个不同的index值，进行初始化
-    public List<TDDStepReplaceCaseTest> testcase_generate() {
+    public List<TDDStepReplaceCaseTest> testcaseGenerate() {
 
         List<TDDStepReplaceCaseTest> testCaseList = new ArrayList<>();
         for (int i = 0; i < data.size(); i++) {
@@ -41,6 +46,13 @@ public class TDDStepReplaceCaseTest {
     private Object getValue(HashMap<String, Object> step, String key, Object defaultValue) {
         return step.getOrDefault(key, defaultValue);
     }
+
+    /**
+     * 统一替换yaml中的变量；复杂结构需要使用递归
+     * @param step
+     * @param key
+     * @return
+     */
 
     private Object getValue(HashMap<String, Object> step, String key) {
         //取出值
@@ -64,6 +76,14 @@ public class TDDStepReplaceCaseTest {
             if (step.keySet().contains("quit")) {
                 driver.quit();
             }
+            if (step.keySet().contains("sleep")){
+                try {
+                    Thread.sleep(Long.valueOf(getValue(step,"sleep").toString()));
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
+            }
+
             if (step.keySet().contains("implicitly_wait")) {
                 driver.manage().timeouts().implicitlyWait(
                         (int) getValue(step, "implicitly_wait", 5), TimeUnit.SECONDS);

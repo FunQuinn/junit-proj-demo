@@ -10,3 +10,4 @@ steps:
   - click: {}
   - find: { id: search-term }
   - send_keys: ${data}
+  - sleep: 2

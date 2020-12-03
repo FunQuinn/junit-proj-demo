@@ -28,7 +28,7 @@ public class TDDStepsReplaceTest {
 //               通过yaml读取
                 TDDStepsReplaceTest.class.getResourceAsStream("/framework/search_step_replace.yaml"),
                 TDDStepReplaceCaseTest.class);
- return tddStepReplaceCaseTest.testcase_generate();
+ return tddStepReplaceCaseTest.testcaseGenerate();
     }
 
 
