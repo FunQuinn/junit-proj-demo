@@ -27,10 +27,10 @@ public class TesterWebTest {
 
 
 //    webDriver.findElement(By.id("TANGRAM__PSP_11__userName")).clear();
-    webDriver.findElement(By.id("TANGRAM__PSP_11__userName")).sendKeys("15709109306");
+    webDriver.findElement(By.id("TANGRAM__PSP_11__userName")).sendKeys("18709109306");
 
 //    webDriver.findElement(By.id("TANGRAM__PSP_11__passwordWrapper")).clear();
-    webDriver.findElement(By.id("TANGRAM__PSP_11__passwordWrapper")).sendKeys("wangxizhen123");
+    webDriver.findElement(By.id("TANGRAM__PSP_11__passwordWrapper")).sendKeys("***123");
 
     webDriver.findElement(By.id("TANGRAM__PSP_11__submit")).click();
 
