@@ -22,14 +22,518 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c760ee5-7292-4da2-8e13-817e7ba97859" name="Default Changelist" comment="none">
-      <change afterPath="$PROJECT_DIR$/owner-frame/src/test/java/TDDStepReplaceCaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/owner-frame/src/test/java/TDDStepsReplaceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/owner-frame/src/test/resources/framework/search_step_replace.yaml" afterDir="false" />
+    <list default="true" id="7c760ee5-7292-4da2-8e13-817e7ba97859" name="Default Changelist" comment="裂变与替换">
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/002b73c1-b48f-4f46-b6c6-e714105654dc-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/0127b15d-8bcc-4e01-a425-bb5e7fc1e53c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/01aefc57-71c2-46d2-879e-bfbfa2aba02f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/02c35bd0-43ee-460a-9232-c18bfb5d4c1a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/02c6e7e4-006a-463c-89d2-aa6c9e1c9238-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/02e8a7a4-f719-476f-b9aa-f1d5f00de26d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/034890a6-f6ad-4b7e-b5b7-20f6ba7a3e8a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/038c90fd-40a1-4463-9fb2-37b3b99451a6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/045851fa-56c6-4b34-9532-505754e30838-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/04ee3a96-8966-4911-910f-31b1f9473efa-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/0508e6dd-0e45-4c6b-967f-dabeed63f63d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/053f59a4-b8e0-40dd-9960-3b212fcb8d81-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/05b4d9a1-37f7-4a46-a25b-fa54f468eed8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/06eb8557-4dd3-4b7f-9259-da5041b958b9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/07aaef4c-2031-43b4-bb52-8d679030fbeb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/07f6a891-eac6-4f0d-8274-a913292d617a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/08123569-03c4-4330-8dc1-bda6124e1e49-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/087ab3b8-b60a-4935-ba5c-337e98ff0370-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/08dde15b-dee5-4e35-94de-c3e3713b66aa-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/09c667ea-6112-4df9-a3ac-9293c50dd748-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/0a47b369-e2a6-4ed8-b6aa-18dcdce95ed9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/0c28a16b-a2c8-4ef9-ae28-abbf1573703e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/0c3c6b76-a883-4fcb-aad9-2881d5a077f4-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/0cc9e85b-5f1e-402d-819f-b71222029dfc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/0ced8de6-7409-464b-b25f-4990e2ae01aa-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/0d4e7e0c-851e-45bc-a9cf-b7134f003921-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/0e3c6a0d-29c7-4060-a4c0-0e168e7d307a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/0e616df5-1ec2-45c0-a7e6-a9348d77da03-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/0eaec01f-ea44-4fc1-8dd3-fba6a7a5f606-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/0ff11aff-e47c-45f7-b916-a6a7dd66dcc9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/1096cf38-6e74-4e0f-b60c-31aae6f2cd63-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/1127ca31-27bc-4357-b1c6-437592a747cd-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/125cb58f-3b11-46fb-9d65-d63d172e27ca-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/12cee844-4087-4045-a293-ba304ca735b4-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/12e6ad1b-212e-41e7-9fd9-9d3bccc33f1c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/14ca4171-9e3e-4a73-b5ff-98276f280f56-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/150bb8c8-a421-4e72-bec6-98b5f5e6cc7e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/158953f0-5eee-440b-b9ee-9f5983765f7a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/1675e7be-10fc-49c7-be82-0ec20566a8cb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/176cec71-f88a-430e-800f-05414ce7c5bc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/183f049d-9fa3-4767-970b-2a88779eccc7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/18c04958-ba97-4773-9b2a-8591560fab5c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/1959fdb6-32ac-4f03-88f2-fb1ce89e7596-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/19fa9fbc-3d95-45be-950b-5b9601829914-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/1a15a042-755f-4789-b44b-44e32cbb1e78-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/1b3a719e-5549-4a7a-828a-df83fa372eaf-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/1d575d0e-597d-436a-a626-b1e23d16e345-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/1d71da94-301d-458b-9894-ab257520eace-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/1d9db416-f97c-42b1-8682-4b63ac167a72-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/1dde80ce-c4e0-400f-9f8e-a377a9266cdb-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/1eab9cfd-08c3-4aa6-bff1-452b743edf40-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/1eb2d451-6483-4847-a7df-51d856bc5b9c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/1ec396f6-4a73-464e-b9bf-5bac610706eb-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/1fd9e70d-680f-44fd-acec-d283dcbe6638-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/2035d042-817c-4fef-ac6e-919f2c05af88-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/204f3fbf-b68e-4d9c-b72f-f72e485c8516-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/20f8cb44-0a97-4c54-9843-66c04a9a7c64-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/2149ee23-da64-477a-b2ee-32426b6d0d6d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/21a573bb-4ffa-4913-a41e-4a71b7e54575-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/22063680-f09b-49ef-b936-b7f4bf1a1f5f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/2291cd97-0c27-4a85-8eb9-afaa61785ea8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/230b4e30-4ec7-4af1-b8d6-f245f6171038-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/24b3d705-bec7-46ca-9a31-afa1b14b6cfb-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/254e6661-ff22-49e0-a80c-0c050ae96293-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/26296750-f999-4f03-a01d-e0c74e6aad77-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/26fa7007-84ad-473c-bcd5-7958052689df-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/27a08ed6-4c0c-4173-ba85-7b239a6d5402-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/27a2716b-9b6a-4e27-bc41-c9f0f49ac7af-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/27f188f1-95f5-4ec7-bec5-9fa8a4615d5e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/28b20a9c-5344-4330-9233-7aadb4fb0acd-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/2ada05f9-fe1d-4b02-9154-d7df40917893-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/2b089532-7a67-4dfa-ba03-c68a1bcc2439-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/2cc72dbe-e4aa-48cb-b4b7-a8bd92a8ca83-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/2d536152-ee2e-4246-ad53-fc83344b8fd8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/2d69c312-33a8-4c3e-b8e6-e39f64bd0303-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/2e05b8eb-4a5d-4d09-bf05-8eb4a834415d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/2e8c2315-c101-446b-b369-ea8b245c940c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/2ec68212-885b-426c-99cb-8731f414247a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/2edf0c31-6dc0-4adc-b5a3-a122b5b7b0cb-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/2f2a842f-6094-496c-96f6-a3d3a8062b79-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/2f72182d-bed7-49c5-ace1-2520e4f433a2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/2fcd2ceb-b530-47d0-9b39-bfbced65cc87-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/305f0455-1492-4be4-b16d-decbcb95e64b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/307333ee-6c92-457e-bdd8-58ef54df4b37-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/30a076db-53f9-4457-9599-cd1d2e1035dc-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/30edacc3-a118-4018-a835-66f084217cc0-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/31eb3edc-6c23-401c-8b9f-4c6235c0fd57-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/32a3c529-3e2e-4a6d-97df-b9cba5aa418e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/32adf7a5-1e22-4c06-b627-2eb3d065c6ae-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/32b95967-4327-447e-b1b3-31bb9856024f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/3352cc8e-f2e6-4e35-97ea-bb6580cbf8ec-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/358313ad-6a30-4144-a82b-9a2f989f4e54-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/35f2ad2d-7d49-479e-a45b-c632695a1596-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/36c2c29e-bcea-47cc-8547-5aea568f24bb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/372ec61a-16b2-40a9-a141-9249b77364be-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/373074ef-7e98-4e65-8e27-e9bfff1d7421-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/3790dd7d-b750-4eb5-a363-1bd492718f3b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/37ae929a-f1ff-4e31-9757-c3de213e47c6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/37eb132f-a038-4608-9761-43fcfff17d3d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/38ea3050-fcd5-4249-8a1f-bf8e052fb5bb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/38f7b952-2f7a-4cbb-8939-5c4d8e89e9ef-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/394eec18-4b22-4217-89cc-f7f60e677887-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/39e2426d-a2d0-4f79-b793-6b2eeb724360-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/3abd5bb4-c77c-4902-a249-e3dc5645cce6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/3ac8cd50-9325-45ea-864e-89eaaa8c8b27-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/3afdb581-2840-4b38-ae38-2baa38d69506-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/3b884d47-a430-416b-90d8-ba6a719847c0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/3c13d4ec-1c69-4c21-b3f5-fa8d90eee11d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/3c576228-42a3-4cce-81f8-b48c376e3b7b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/3c693fba-a57a-4ae7-a3ce-cf4a67c9ba4a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/3c7b18fd-47e0-49bb-8bb7-e2bdd83a8364-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/3cb0138c-c4e9-4e6e-bfd0-517b005fc948-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/3daba408-2a77-4fa8-97e0-63152c538635-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/3eb9e44d-27ed-4595-87dd-799f6e588568-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/4008ace6-38ec-474d-a6dc-a72698fbc6fd-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/400ccc61-d089-4658-81a4-d98d9a887fa6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/407b723e-6b98-4506-b32e-fd6e205ef5cf-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/41dd179d-0a32-444b-aef0-0b98fa1f8020-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/435719c6-e23b-4d8c-a58f-133e50e2e9ce-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/436fcf04-2cfc-4fb1-9e2d-3691a352e075-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/443ec8b7-5804-4a06-ba28-92ae2cd10145-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/45aa8c26-ca09-48b2-b00f-765c8cec29d8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/45fca51f-0d76-43cc-ade4-0184f77cad68-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/466b1acc-1ae4-4cfa-aab1-79346ddf8703-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/47d218e2-c11e-4b8b-b5de-2959f2b70439-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/47eb9a56-6b27-4be8-a328-de20e98d79a9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/484c69ae-c329-4c80-825d-3100e9987ef2-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/49d2f9ee-9443-490c-85b8-1da51a3e0adb-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/4a2dda0c-be31-4993-84f4-65852220656d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/4ab5df6a-7224-48a9-a7b1-c214e19ec1cf-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/4ad50f63-9108-463f-9b3e-bd2f90b1f4d8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/4ae447c5-b29f-4e98-95d8-8cc946384f6f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/4ae91782-17fe-47c6-91cd-8dadd3bc6836-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/4b83fe9b-ec43-444a-8a1a-8e0be4557be1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/4b960745-bf51-47d4-9bbc-a872dfad3423-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/4b9bdf0d-218d-4d6c-a12c-c3c356777bf8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/4bf76b7f-0d81-40db-83ec-4fa890aa4329-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/4ce1fe07-710f-453b-868f-b43f4ee6f427-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/4d0936d1-61c5-468a-94c9-3e88567d9861-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/4e9a4537-8e4d-4f06-9ed9-fab8ec37d42b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/4ef5713c-9139-4675-81c8-76b7809153ff-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/500cceba-4959-477a-a3ac-c1750a386d60-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/501199cc-e731-482d-af1b-9eddc5a27217-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/5138e938-27a7-4068-a382-b4ad82a26056-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/517debb8-585d-4287-8701-5a905d615cb6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/5261cafd-fe5d-40fc-a2a7-37181f170eb2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/528bddc8-2a74-43f5-a5bd-9b14bc836927-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/53abc490-9bfc-4755-b7c2-2277c4dfcb2e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/54c2b477-f8b4-4129-a0e1-aa6a5d927293-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/55479563-4517-4f49-a77f-e0c6454f330c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/5557d36f-096d-4c34-a673-02a10ca5be08-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/556fd92f-81c3-4810-a8cc-b778fe7f2e4b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/55951c59-4074-400a-ba4d-042c0a766db9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/5649b661-415e-4075-80c8-86b947694a36-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/56fc4e79-a105-4046-8853-b37cf4c498c4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/59b60c3c-4006-4cc6-9222-50843c0dec26-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/59e60fcc-97de-47ec-b4da-819e98e60810-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/59f4ddfb-41e1-43c8-b448-6f1601643ae3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/5a4d39b9-a839-4b7c-a9d3-0ef6eb20f644-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/5aba1a07-2797-4216-b29d-79262d271f76-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/5b3caaa6-b23b-4f5b-8c14-04145e4dab52-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/5b677bef-be51-48e6-b0b0-cffaf9f2ea4c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/5d551d27-eef5-457b-bee2-27ab8e0296fb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/5dc5a7a6-c2a5-432b-a766-d666a4030291-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/5dfd70f0-4cd2-443b-8d82-e1392e3c4682-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/6061abef-13a3-44d5-894e-5ffea0ef655d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/60dade8b-7139-4ec8-97c5-b93e960026f5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/61b28374-0a51-4b77-940d-d32d2bbf9e59-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/61e893fa-ef69-41ed-a99c-a4bb40969a75-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/61eb3a8b-c7fc-433c-81d2-fe4229e9bd29-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/62043449-21e3-4d15-bd99-c63b55850b41-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/62b8cada-bd9a-4918-8150-27a7621c6601-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/638566ca-2d7d-485b-847c-57328e345697-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/63fee393-dd09-4e22-b4cf-2b450d24944f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/640d7b4f-784c-49fb-8d61-69f0de2bd2ab-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/653e3df7-8a2c-4e20-a379-acb5cbd1a396-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/656bef20-b028-401f-b861-22a9921c0e49-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/678defea-4423-4e61-b6c0-951498fa65ce-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/67ceca2e-3cc1-4a7a-b1e3-5a249b408bef-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/68213012-8af1-4981-8857-7740d90f2753-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/685c3095-07d5-4838-842f-da4ddc483504-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/687fabc9-83ab-49dc-b669-39ee0e501598-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/69081142-44ee-4e77-9f3e-65144f64ea2f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/693696d7-ae9d-452f-992e-9e8439d73b4f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/6a045366-5ff8-433f-aea8-f3bc2a84a355-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/6af7cb78-cc43-4ba9-9387-f05676d9483d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/6b1b9e27-651e-4d79-9963-62cacad9882e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/6b2406ab-d55b-4914-91bb-2dcb8d16f880-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/6bce3cc7-a21b-45b2-a013-24581585f701-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/6d89cd5a-4591-4d6a-96ca-65f6daf4a14b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/6e525225-7f64-4f6d-827b-8b862948f843-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/6ea75c3c-7313-4d14-b52a-a5d9fd11a403-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/6edb7d82-951d-4228-94a6-ac276e754760-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/6f412b92-e6ee-48a7-a953-b174eb691751-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/6f4be5e3-1fec-49c4-95f8-ba738305f457-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/6ff058ac-27d9-4e0c-a9a5-5cc89347388b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/7044414f-6a5b-4a7f-b9c5-8878de880633-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/71541061-a20d-44f3-b476-2222940cc279-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/7372df0e-bc78-4664-924a-4c3b8ecddf57-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/74032a35-c0dc-4efd-8dcf-0e05ebd2062a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/75c16d68-76bb-434b-8003-3d9451645313-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/763231a5-cf11-4242-9fdf-a4a73d1f57e8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/774a58a3-4c61-4691-ac5e-ea3c5720c4cf-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/7804ab07-8073-433e-be8e-6fa087e73363-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/789e2713-6a74-4b8f-a316-81653d9db0e2-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/7950942a-43d6-499c-85d6-3bc47d938179-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/7b38677b-2d95-42b6-8848-d31a4db22267-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/7be6819e-e457-44c4-8418-b5dac3db8f80-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/7c4be43d-7fea-43f8-a699-69c20c67f096-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/7c5502ad-e20b-4219-b5c2-348107c4f66d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/7c770d76-8e00-4ecc-8cd8-11374f787045-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/7c80624f-be81-44db-8276-1dc7c0047ee7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/7ce18d86-9e7a-45d6-8a95-bb7bf934ee63-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/7d1462b1-eb8e-41d1-9093-1976d8242a09-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/7d20b924-9514-4ea9-b41b-38467d7931ad-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/7e7266e2-5d4c-432a-bdc2-0dd05fa6b42c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/7e845bc8-a280-4e35-a639-76fdde2baa71-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/7fa65be9-dd6d-4466-b876-71b1e0a92c5e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/7fafb541-bb76-4d9e-bc97-d0f53f7f64ad-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/838c58e2-c268-43fa-9bec-4c2aae055333-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/8444d52d-ed52-4121-9950-80fb9de1bb16-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/84542f21-53eb-4394-bec2-b312aeb38c42-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/84bd96ea-b68f-4310-9a89-b3b5fd3680c6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/84ec3358-01e0-4246-ae6a-1fb4f98428b2-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/85c1f432-c7a1-443e-b86a-e5e7e16cd7ab-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/85f958c2-4901-483e-8fc4-be9d2310299f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/86040c53-4e79-493e-8261-ff7c76dbd391-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/8632fee9-aa19-4cec-9c8a-63ac4d3826ac-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/8633ac35-7341-4a3a-951e-7189227f4fb3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/8685ea1e-51bc-416a-901f-b7ef07030468-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/8692f58d-3066-4323-a2ed-b4646421b446-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/86bee750-2d0a-4d76-91a6-a762bb4ee3b8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/8788abf9-37b3-442b-9537-11d89b9e7e0d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/87db9338-c54b-4dd8-a69f-cd39013b8e43-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/8875df85-2ca2-4c48-b48b-c46808966a2a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/88d7b2cf-656e-4f08-9538-4198f7d90252-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/89232320-bfa4-4131-8992-367d5ea79c60-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/899566f5-fdf8-4024-ade7-65a4a8cc6ba0-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/89d7e825-86c7-4283-800a-84632fa8b131-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/8aaaef82-d3f7-4768-8b06-1dd9ad870b05-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/8ae08fb7-fe63-4f4f-84d3-c21922ced5b7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/8ae901f7-2f25-40b4-827f-571395596254-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/8aef0b4b-c524-4104-8422-76b89f95e02d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/8b4a4e10-806c-482f-8302-dc2e22066d2e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/8b8be594-3228-4ada-bdc2-94a2aa91d175-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/8ba4aa56-ec7f-47b0-b5e0-6c11be1c0fc5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/8c872d88-dc09-4acd-adcf-c4fae253a4b0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/8d91b323-bb38-4a4c-af08-4b8acf0562cc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/8e5bf568-50c8-494c-bec1-8b12df4e1776-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/8ebfe3b7-8487-465a-bfc4-746e3c7380ec-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/8ee10d19-dffe-41d4-b295-89191f06331f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/8eeaa22f-f1ce-43ce-bb99-af0b2b0e3beb-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/8fa254fa-3ee0-494a-84ad-cd603c1a1b5e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/9055956d-bf54-4534-9ae4-83dde859ae45-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/907182e2-a3eb-475e-844f-b8ac936cc24d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/9240bfd8-49aa-44dc-b074-1dbf7fb34500-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/929a7657-a4a4-4f44-9d0b-667f2672f1b9-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/93202920-0e5e-4374-8a84-577e53b4dc87-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/9370a63d-12a9-4842-bfc1-cf9ea8492913-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/93a2331d-58d8-4df4-9f49-ddb801e4ba46-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/943cb255-45ba-4042-89c3-145f2bf91589-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/94462f77-5e93-4009-a212-284d4b21cd3c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/944a4b53-3305-44c1-b53b-7cad90844112-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/94ef0b9f-60ae-4bc0-a585-2c0187783e3f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/9552fbaa-1fb3-447c-ba1e-5bce2074fc52-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/9599444a-64c8-4c0d-8cdd-02201e395bdf-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/962e754a-55d6-4d85-be92-cf105b722c96-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/965c161b-3767-4a09-9b8a-489de870227b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/967aeee3-48ba-4cc2-818c-d60390916bac-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/97d709aa-60f3-44ab-9ee7-94a506d96d97-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/984b1b15-5083-464b-b48a-9d7c91ebcb39-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/98b8511e-dfe4-4de6-8ff1-95ece0d70565-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/98f979a7-b131-4891-8edc-c519edae66cc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/99e4b795-58a8-42c1-9222-fc7df004a83d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/9a11eb0e-a297-4001-bf16-7b1382950a5f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/9a188e0f-1085-4956-a7f7-06f69a0bb7c2-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/9b7846ae-b8e7-467a-85ef-4ab0ca725259-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/9bfb7813-2f58-4c40-bded-d4501e582ca7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/9d8661e6-da94-40fc-8fa0-058cba09269b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/9e4f073f-ade2-4fc7-8341-418a981ee621-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/9eef7e43-741c-4bb4-aaac-595c03881032-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/9ef3601d-ece8-4668-a2b5-a10d79a71c4f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/9f2253de-4e66-41c8-97d4-096b981ab75c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/9f39d386-ee0c-4dff-8aff-f9f302a0d66d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/9f912439-68ec-4f54-8248-0f1e5c294ad2-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/9fc77572-f11a-457a-a481-723ded7a2a21-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/a01be754-6950-4661-b012-407a141fb211-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/a13f7748-db00-4b8a-9ad0-6590a2ad861e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/a1d05c3c-10fe-4779-8815-ba004547ebce-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/a1e60650-35f4-4f68-bcc0-4143bf5467ba-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/a2c6e473-7430-4618-b45b-2253fe17aa2d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/a35377e1-064a-4cd2-b7f0-4fc451c557d9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/a3cdfca4-39e7-4768-a770-8bcf1981f52a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/a539b3b9-3f4c-4d23-aa55-5e3fec0187f0-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/a6291fd4-ecfb-48b9-8754-783c20f2f3c1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/a6332115-8a11-49fa-a123-f968225245f8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/a8796336-4693-4ea2-a07d-02de68f4d186-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/a8a1c065-bb41-4362-aee3-4c5f05946d7d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/a977025f-0dcf-4c7b-aacf-7cfb441f60a8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/a9afc3ec-c6e5-44fa-b672-fb9cff9ecdd0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/a9c161ec-1804-4dca-a017-bde2f64e9a93-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/a9d7110c-7a39-4a5c-847f-608108bfd34e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/aa317e28-fa8d-4a0c-8706-a29e423a2fe2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/aa8bc73c-9ddd-4f26-b49f-eb9253fe2a68-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/ab30202d-f910-4003-bc4d-f55b138cada9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/ab6f4c6e-01e5-42c4-8928-3510eba170c1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/ab7e3cdb-1e48-4002-94d3-574cb3425719-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/ac424a95-8ea1-476d-aace-12003d0bc677-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/ac457e9f-b4d1-4f73-bc07-a47efef47d53-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/ac6b7542-7899-4c8a-af45-7d4ba28fd5e1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/acef3f58-ec3c-4174-8018-562d3442b731-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/acf8101a-8367-484d-91b6-6d31f338e456-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/adee1acc-2500-4735-a5e0-1766bb77cbbd-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/aece2ecb-4f48-47cb-9781-dcf9b136e4bb-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/b09df73f-308a-4550-8334-ab6d7e11b558-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/b18bda99-6f9b-4518-92b8-439389100329-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/b1b0a199-7661-4ebe-83b6-e5da2f928f28-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/b1cb22ea-b1d1-44b8-a7b4-ded0bdc73bf3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/b1d80754-8b9c-4b02-bfec-3c3aa084ec9a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/b2a04ef4-ddcd-4576-8824-0f70c3b915ea-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/b2cb1345-1d28-4568-817d-8cbe014550d9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/b3ed64ec-90bd-4121-a0a2-8f585dddf0fd-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/b5f8d973-056e-4dc2-8604-824ea53c5916-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/b696ec6f-b5b8-4c9d-a70d-abe67f1f9901-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/b6a6e53c-bcd4-4b09-bbf3-19bc71d6955c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/b7861d98-0552-4d33-9192-74f157458b68-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/b7ef6a1d-e79f-45ef-8e6a-642f8117d9c5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/b82af641-a23a-441e-87b9-f6ed0963fc45-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/b861b34d-3c31-43ad-915d-6e1a365fc573-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/b9a8e879-553f-48aa-9b33-e973f930c47f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/b9e5a4ef-39c8-4e01-9646-048a5b4686e5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/ba2b38c9-b9c0-41a5-9d32-e11cc22e27f3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/bae96357-f7b4-4537-89ff-6d737d0bc5c7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/bb5e6158-cf7d-47ff-bd1c-2637ec770c79-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/bdf47718-4aa5-4410-aab0-d6155bd8956e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/be497526-50d6-475f-922f-b3660f549b39-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/c0703cf7-5234-4db5-af64-20107c437402-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/c137f440-134a-4784-ab97-5c1fc0af93d8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/c17097d1-e132-4186-a67d-d26e9cfac368-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/c190373e-f973-4d5c-ad8e-a70b72294811-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/c1c9e734-16bc-4f50-b788-72bb466f9730-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/c1d5c373-533a-4acf-9f9a-7bfc1f4dc52b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/c249b28e-9458-4932-9575-904c9ac41c29-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/c293d867-c1a0-4216-8b71-18240f651ad4-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/c29fb2da-70f4-4aaf-a547-8aa4166c934d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/c2c0493f-88ae-40b3-90c7-fb6a1754e7fa-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/c312350a-8f03-49b0-b901-b2cabdd3f21f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/c38b2c74-0da8-4e15-8a65-f24b4cc7a615-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/c3c90d07-ad92-4527-ab8c-4b7320eba469-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/c49426ba-af0a-4717-9f60-5df54179a383-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/c4b186b8-da2f-4ce5-9873-fb482a6d0fc5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/c516a102-07ca-4d76-b3a3-55801b874969-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/c5688c4c-4663-4264-99c1-7563bf7b2f21-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/c584428c-73e2-4e54-8a43-f8c1f44e98eb-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/c7ef347a-09b6-4246-a8a1-24c80a72d7c5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/c84dc11f-b2ec-47b3-8e93-8e1d743e8c13-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/cb77f570-079b-46e3-b414-c6732d45e07d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/cbfab26b-863a-4782-824f-b750d15858e8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/cc627d61-fcce-421a-a9b9-cdd4b8d3ee39-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/cc6e958c-d278-4ae2-b155-2cea99455b90-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/cc9b0e47-1d90-4572-8a31-be7a7cceb967-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/cd4a12a7-f616-4577-aaa6-80e6ee1a0020-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/cd6cb842-3562-4326-b5be-8bad21558930-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/ce56d9d0-30c3-4b46-b5c5-d7ae4089f6d2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/ce61cd39-7988-47f7-8c44-349b414f3713-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/cee11295-a2b1-4339-904c-78de1cb0df2b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/cf51dff9-df5f-4915-8abb-e2242f3e8387-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/cfc01d03-c9d1-46b9-81f6-2759fed19020-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/d09f4ec0-5123-403b-8058-77483dfe261f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/d0a03573-ad2b-42a6-9c55-5bc90783c4bd-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/d10f7ee8-ca00-4912-a12f-525e1f66cbfc-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/d18ef70a-ed40-4081-8665-4c2e6c892059-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/d204f74d-6775-45a5-8311-2560185c517c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/d351c56f-5e3f-4592-bbe6-ac49f3edc09c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/d543551f-93ce-471b-9747-cbcf3002d1b6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/d5c40d44-24d4-4e57-85ca-5c690fb0f17e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/d79efe2d-8910-499c-a22b-05b808ec66be-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/d7af629d-82a0-41de-a976-e6441c2986d5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/d8592f2c-ab5e-49b4-a4fc-2daa99adf4ca-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/d862c699-63e4-4195-816a-cb82b64e3ecf-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/d9913224-b487-4ba4-af84-fda1cbaf4801-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/da20b8b9-d29a-4531-846d-e68b19ec4795-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/db066bc6-f6d4-4cd4-a879-a5cde8088777-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/dc33d920-d33e-414b-9bf8-dab68c83429f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/dc5b8e34-5166-4b55-af67-c9901a0d792e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/ddc8e931-8496-4aa2-aaa6-b3df99ab1b25-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/de0a41eb-55ed-44c1-b112-0858af599ca0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/ded87fa4-8f46-4d14-a663-acee20824118-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/df3d41dd-04c0-42f4-bbe8-ce6eb2a2e5c2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/e09a6b47-b0f0-4e49-9a9e-679c6e8ed7c8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/e0f0e615-2bcf-41e7-a959-30a302c62cdd-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/e16bccec-6f08-47c5-b5a3-1ae11c818680-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/e24702af-0453-433f-b965-eb7a5d4af6a5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/e2a76dbe-87b4-466e-a29c-858e2fb8755e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/e2bc90db-a73b-40f2-ab88-6760fc577f72-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/e330123a-5773-4087-900d-9838598060cb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/e346888c-d0a8-41e8-b276-be4fb0bb1668-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/e3822656-8244-4db9-98b8-f14859cc871d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/e454710e-23e0-47a9-9465-99df7a360bb4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/e520f355-b719-46a9-9588-49be1bd6429f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/e5757562-0440-423c-8606-87a3843bf163-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/e5a04728-0eab-42b2-990e-952cc5419976-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/e5d56a9e-b8c2-4d1a-9ec7-17ebbf54a4ad-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/e798671c-12ee-44aa-ad37-4a2c205b8158-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/e7de3442-8b94-4f55-8abe-b4a97285c56d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/e800c9dd-cacb-4822-a641-853d6faffe76-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/e8ecd28c-cc08-4eeb-9f4c-26943868ef1b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/e9a2b36f-252b-4fe4-8b30-b3e90f5ce2d8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/e9d67799-3626-4e6b-b367-0236315a0cc4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/ea0e8e0e-91a7-4114-995c-4a6037be5b64-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/ea368542-384f-498a-bc0d-397501aa04ad-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/ea5c0c70-669c-43ed-b2e4-82d17c05955c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/ea80c226-020c-4036-b958-6c4bda34983d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/eaa8ff55-f676-4ab9-947b-d06d7239f26c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/eacdbd53-fe1e-48db-8e4e-beea95c86126-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/eaefef19-bdde-4d8e-838e-b1ba256a71b1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/eb45bf6c-c310-46db-a80e-5359b6aa6de9-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/ebea1c05-9799-43b5-8ada-6c9915c456ea-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/ec8ce558-b7db-472b-a5c9-cb25553bb443-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/edb2b34e-be1b-4052-beba-ecafeaf3499a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/ee0e8b19-d01e-4f89-9faf-cd33f6ad63e3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/ee89ace4-67a6-4085-a39b-155e52c5a45d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/eff1cfe5-c0e7-4dce-8fda-23ffdadb1dcd-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/f14f2cb5-d704-4fa6-92e6-faae51817b3b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/f1ae0706-7788-4abd-9001-a011e510cf63-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/f1e9dd78-bf87-46fe-b40e-382d814ab4f2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/f2660467-3568-4cdc-99cd-7f7d8422e6f0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/f2e152da-a102-4ccc-bde8-be2fe952aec4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/f3dc0dd1-93f2-425e-8cd3-134ddd0c4662-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/f437ca50-8585-4a86-95e6-33aaf7863ef3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/f45187ee-55bb-46ae-b0cf-1079e93de69a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/f4d9a82f-121b-427d-8982-6354d4bd688f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/f4f14ce6-9aea-4064-ba84-79eb9f6bca62-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/f53bb878-9ae2-4576-b4cd-005d6ea2d53f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/f62f4544-5d64-4f4b-b9fa-d87eb6f29876-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/f6d027ac-de33-4d5e-98d3-02ce4d3cb68a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/f7975611-5ccc-4ec3-8db3-38c5863e5c60-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/f7ce4544-b2b7-4365-b62e-622d13b98a07-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/f8212b8b-44c0-4528-818a-331ffa1eb92b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/f8a2b389-ce6f-487b-940d-07817eb849f3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/f8f73a98-8bee-42c6-af50-0acba19bbf01-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/f9889dc3-cc5d-4542-a201-9d8d32a8cbe0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/fb0b4819-9ed4-4e80-9560-bed8e9b921f2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/fb6fa1a9-646b-4540-a023-4d8ef0017487-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/fb7fd5e3-c623-4d01-9d59-9fcf0a92f4e9-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/fd3925e6-f612-4689-b26e-db6db81c34e0-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/fd4ccf57-b4fc-4279-a3aa-c82f82009d45-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/fdbd77ec-058a-4081-9827-d7ec9648947a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/fe0da710-6702-4fc1-8155-309c52764c40-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/ff46f43e-a8e7-4e94-b7e4-91f428bd56c6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/ffe1d47f-9253-45c7-b914-c963be0cdec5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/allure-results/ffee2016-9090-497b-8493-8413958b004d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/src/main/resources/data/createDepartment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/src/main/resources/junit-platform.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/src/test/java/com/wechat/apiobject/DepartmentObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/src/test/java/com/wechat/apiobject/TokenHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/src/test/java/com/wechat/department/Demo_01_BaseApiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/src/test/java/com/wechat/department/Demo_02_SeparateApiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/src/test/java/com/wechat/department/Demo_03_01_RepeateTimeStampsApiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/src/test/java/com/wechat/department/Demo_03_02_RepeatEvnClearTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/src/test/java/com/wechat/department/Demo_Layer_Api.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/src/test/java/com/wechat/department/Demo_Layer_Concurent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/src/test/java/com/wechat/department/Demo_Param.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/src/test/java/com/wechat/department/Demo_SoftAssert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/src/test/java/com/wechat/department/Thread_createDepartment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/src/test/java/com/wechat/department/VersionAllure_Desc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/src/test/java/task/EnvHelperTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/src/test/java/utils/FakerUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/target/classes/data/createDepartment.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/target/classes/junit-platform.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/target/test-classes/com/wechat/apiobject/DepartmentObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/target/test-classes/com/wechat/apiobject/TokenHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/target/test-classes/com/wechat/department/Demo_01_BaseApiTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/target/test-classes/com/wechat/department/Demo_02_SeparateApiTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/target/test-classes/com/wechat/department/Demo_03_01_RepeateTimeStampsApiTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/target/test-classes/com/wechat/department/Demo_03_02_RepeatEvnClearTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/target/test-classes/com/wechat/department/Demo_Layer_Api.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/target/test-classes/com/wechat/department/Demo_Layer_Concurent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/target/test-classes/com/wechat/department/Demo_Param.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/target/test-classes/com/wechat/department/Demo_SoftAssert.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/target/test-classes/com/wechat/department/Thread_createDepartment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/target/test-classes/task/EnvHelperTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeChatApi/target/test-classes/utils/FakerUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mock-project/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mock-project/src/main/resources/mock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mock-project/src/test/java/WireMockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mock-project/target/classes/mock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mock-project/target/test-classes/WireMockTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/owner-frame/src/main/java/util/WebBasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/owner-frame/src/main/java/util/WebMainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/owner-frame/src/main/java/util/WebSearchPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/owner-frame/src/test/java/com/POTestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/owner-frame/src/test/java/com/SearchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/owner-frame/src/test/java/util/TestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/owner-frame/src/test/resources/framework/mainpage_po.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/owner-frame/src/test/resources/framework/search_po.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/owner-frame/src/test/resources/framework/search_po_test.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/owner-frame/target/classes/util/WebBasePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/owner-frame/target/classes/util/WebMainPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/owner-frame/target/classes/util/WebSearchPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/owner-frame/target/test-classes/com/SearchTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/owner-frame/target/test-classes/framework/search_po.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/owner-frame/src/test/java/TDDStepCaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/owner-frame/src/test/java/TDDStepCaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/owner-frame/src/test/java/TDDStepsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/owner-frame/src/test/java/TDDStepsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/owner-frame/src/test/resources/framework/searchstep.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/owner-frame/src/test/resources/framework/search_step.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit5-web-selenium/src/test/java/com/practicedemo/TesterWebTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/junit5-web-selenium/src/test/java/com/practicedemo/TesterWebTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/owner-frame/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/owner-frame/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/owner-frame/target/test-classes/TDDStepReplaceCaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/owner-frame/target/test-classes/TDDStepReplaceCaseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/owner-frame/target/test-classes/TDDStepsReplaceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/owner-frame/target/test-classes/TDDStepsReplaceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/owner-frame/target/test-classes/framework/search_step_replace.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/owner-frame/target/test-classes/framework/search_step_replace.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +546,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -70,102 +575,120 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/owner-frame/src/test/resources/framework" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/WeChatApi/src/main/resources/data" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="util" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wechat.department" />
+      <recent name="com" />
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\junit-proj-demo\WeChatApi\src\main\resources\data" />
       <recent name="E:\junit-proj-demo\owner-frame\src\test\resources\framework" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TDDStepsReplaceTest.searchMethod">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Demo_Layer_Concurent">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ParamTDDTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="owner-frame" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ParamTDDTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TDDStepsReplaceTest.searchMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="owner-frame" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TDDStepsReplaceTest" />
-      <option name="METHOD_NAME" value="searchMethod(TDDStepReplaceCaseTest)" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TDDStepsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="owner-frame" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TDDStepsTest" />
+    <configuration name="Demo_Layer_Api" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WeChatApi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wechat.department.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wechat.department" />
+      <option name="MAIN_CLASS_NAME" value="com.wechat.department.Demo_Layer_Api" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TDDStepsTest.searchMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="owner-frame" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TDDStepsTest" />
-      <option name="METHOD_NAME" value="searchMethod(TDDStepCaseTest)" />
+    <configuration name="Demo_Layer_Concurent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WeChatApi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wechat.department.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wechat.department" />
+      <option name="MAIN_CLASS_NAME" value="com.wechat.department.Demo_Layer_Concurent" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo_Param.createDepartment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WeChatApi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wechat.department.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wechat.department" />
+      <option name="MAIN_CLASS_NAME" value="com.wechat.department.Demo_Param" />
+      <option name="METHOD_NAME" value="createDepartment(java.lang.String,java.lang.String,java.lang.String)" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="junit4-demo [install]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
-      <MavenSettings>
-        <option name="myGeneralSettings" />
-        <option name="myRunnerSettings" />
-        <option name="myRunnerParameters">
-          <MavenRunnerParameters>
-            <option name="profiles">
-              <set />
-            </option>
-            <option name="goals">
-              <list>
-                <option value="install" />
-              </list>
-            </option>
-            <option name="pomFileName" value="pom.xml" />
-            <option name="profilesMap">
-              <map />
-            </option>
-            <option name="resolveToWorkspace" value="false" />
-            <option name="workingDirPath" value="$PROJECT_DIR$/junit4-demo" />
-          </MavenRunnerParameters>
-        </option>
-      </MavenSettings>
-      <method v="2" />
+    <configuration name="Demo_Param.updateDepartment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WeChatApi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wechat.department.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wechat.department" />
+      <option name="MAIN_CLASS_NAME" value="com.wechat.department.Demo_Param" />
+      <option name="METHOD_NAME" value="updateDepartment(java.lang.String,java.lang.String,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Thread_createDepartment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WeChatApi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wechat.department.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wechat.department" />
+      <option name="MAIN_CLASS_NAME" value="com.wechat.department.Thread_createDepartment" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TDDStepsReplaceTest.searchMethod" />
-        <item itemvalue="JUnit.TDDStepsTest" />
-        <item itemvalue="Maven.junit4-demo [install]" />
-        <item itemvalue="JUnit.TDDStepsTest.searchMethod" />
-        <item itemvalue="JUnit.ParamTDDTest" />
+        <item itemvalue="JUnit.Demo_Layer_Concurent" />
+        <item itemvalue="JUnit.Thread_createDepartment" />
+        <item itemvalue="JUnit.Demo_Param.updateDepartment" />
+        <item itemvalue="JUnit.Demo_Param.createDepartment" />
+        <item itemvalue="JUnit.Demo_Layer_Api" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +714,28 @@
       <workItem from="1606575292482" duration="35000" />
       <workItem from="1606575352530" duration="610000" />
       <workItem from="1606633244631" duration="2108000" />
-      <workItem from="1606830311463" duration="5378000" />
+      <workItem from="1606830311463" duration="5739000" />
+      <workItem from="1607001887833" duration="4577000" />
+      <workItem from="1607091756925" duration="4603000" />
+      <workItem from="1607695924521" duration="9143000" />
+      <workItem from="1608558048580" duration="6523000" />
+      <workItem from="1608649690571" duration="1548000" />
+      <workItem from="1608818972874" duration="5452000" />
+      <workItem from="1609249847961" duration="642000" />
+      <workItem from="1609853092286" duration="3220000" />
+      <workItem from="1613657219028" duration="186000" />
+      <workItem from="1613658151844" duration="698000" />
+      <workItem from="1613659718988" duration="92000" />
+      <workItem from="1613659901679" duration="3423000" />
+      <workItem from="1613743047680" duration="718000" />
+      <workItem from="1613743806095" duration="152000" />
+      <workItem from="1613743974503" duration="435000" />
+      <workItem from="1613744433103" duration="4309000" />
+      <workItem from="1613999883140" duration="729000" />
+      <workItem from="1615903334188" duration="347000" />
+      <workItem from="1615904458289" duration="109000" />
+      <workItem from="1617721493099" duration="651000" />
+      <workItem from="1617800685857" duration="8940000" />
     </task>
     <task id="LOCAL-00001" summary="TDD数据驱动测试用例">
       <created>1606541394172</created>
@@ -200,7 +744,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606541394172</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="裂变与替换">
+      <created>1606839207122</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606839207122</updated>
+    </task>
+    <task id="LOCAL-00003" summary="裂变与替换">
+      <created>1607007493621</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607007493621</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,57 +778,58 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="TDD数据驱动测试用例" />
-    <option name="LAST_COMMIT_MESSAGE" value="TDD数据驱动测试用例" />
+    <MESSAGE value="裂变与替换" />
+    <option name="LAST_COMMIT_MESSAGE" value="裂变与替换" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="449" y="104" key="#HTTP_Proxy" timestamp="1606403757800">
+    <state x="2800" y="299" key="#Custom_Plugin_Repositories" timestamp="1613744121362">
+      <screen x="2240" y="0" width="1440" height="860" />
+    </state>
+    <state x="2800" y="299" key="#Custom_Plugin_Repositories/0.0.1493.893/2240.0.1440.860@2240.0.1440.860" timestamp="1613744121362" />
+    <state x="2457" y="209" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1613658639292">
+      <screen x="2240" y="0" width="1440" height="860" />
+    </state>
+    <state x="2457" y="209" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1493.893/2240.0.1440.860@2240.0.1440.860" timestamp="1613658639292" />
+    <state x="2546" y="335" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1613661293531">
+      <screen x="2240" y="0" width="1440" height="860" />
+    </state>
+    <state x="2546" y="335" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1493.893/2240.0.1440.860@2240.0.1440.860" timestamp="1613661293531" />
+    <state x="475" y="142" key="FileChooserDialogImpl" timestamp="1615904481102">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state x="449" y="104" key="#HTTP_Proxy/0.0.1493.893@0.0.1493.893" timestamp="1606403757800" />
-    <state x="420" y="224" key="#Notifications" timestamp="1606228152930">
+    <state x="475" y="142" key="FileChooserDialogImpl/0.0.1493.893/2240.0.1440.860@0.0.1493.893" timestamp="1615904481102" />
+    <state width="1440" height="624" key="GridCell.Tab.0.bottom" timestamp="1617809386281">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state x="420" y="224" key="#Notifications/0.0.1493.893@0.0.1493.893" timestamp="1606228152930" />
-    <state x="434" y="280" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1606838022715">
+    <state width="1440" height="624" key="GridCell.Tab.0.bottom/0.0.1493.893/2240.0.1440.860@0.0.1493.893" timestamp="1617809386281" />
+    <state width="1387" height="125" key="GridCell.Tab.0.bottom/0.0.1493.893/2240.0.1440.860@2240.0.1440.860" timestamp="1609862130264" />
+    <state width="1440" height="624" key="GridCell.Tab.0.center" timestamp="1617809386281">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state x="434" y="280" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1493.893@0.0.1493.893" timestamp="1606838022715" />
-    <state x="210" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1606838283574">
+    <state width="1440" height="624" key="GridCell.Tab.0.center/0.0.1493.893/2240.0.1440.860@0.0.1493.893" timestamp="1617809386281" />
+    <state width="1387" height="125" key="GridCell.Tab.0.center/0.0.1493.893/2240.0.1440.860@2240.0.1440.860" timestamp="1609862130264" />
+    <state width="1440" height="624" key="GridCell.Tab.0.left" timestamp="1617809386280">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state x="210" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1493.893@0.0.1493.893" timestamp="1606838283574" />
-    <state x="528" y="202" key="FileChooserDialogImpl" timestamp="1606403869873">
+    <state width="1440" height="624" key="GridCell.Tab.0.left/0.0.1493.893/2240.0.1440.860@0.0.1493.893" timestamp="1617809386280" />
+    <state width="1387" height="125" key="GridCell.Tab.0.left/0.0.1493.893/2240.0.1440.860@2240.0.1440.860" timestamp="1609862130264" />
+    <state width="1440" height="624" key="GridCell.Tab.0.right" timestamp="1617809386281">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state x="528" y="202" key="FileChooserDialogImpl/0.0.1493.893@0.0.1493.893" timestamp="1606403869873" />
-    <state width="1440" height="232" key="GridCell.Tab.0.bottom" timestamp="1606653987031">
+    <state width="1440" height="624" key="GridCell.Tab.0.right/0.0.1493.893/2240.0.1440.860@0.0.1493.893" timestamp="1617809386281" />
+    <state width="1387" height="125" key="GridCell.Tab.0.right/0.0.1493.893/2240.0.1440.860@2240.0.1440.860" timestamp="1609862130264" />
+    <state x="2324" y="0" key="SettingsEditor" timestamp="1615903662513">
+      <screen x="2240" y="0" width="1440" height="860" />
+    </state>
+    <state x="2324" y="0" key="SettingsEditor/0.0.1493.893/2240.0.1440.860@2240.0.1440.860" timestamp="1615903662513" />
+    <state x="2240" y="0" key="new project wizard" timestamp="1615903406964">
+      <screen x="2240" y="0" width="1440" height="860" />
+    </state>
+    <state x="2240" y="0" key="new project wizard/0.0.1493.893/2240.0.1440.860@2240.0.1440.860" timestamp="1615903406964" />
+    <state x="326" y="0" width="840" height="1034" key="search.everywhere.popup" timestamp="1617806898210">
       <screen x="0" y="0" width="1493" height="893" />
     </state>
-    <state width="1440" height="232" key="GridCell.Tab.0.bottom/0.0.1493.893@0.0.1493.893" timestamp="1606653987031" />
-    <state width="1440" height="232" key="GridCell.Tab.0.center" timestamp="1606653987031">
-      <screen x="0" y="0" width="1493" height="893" />
-    </state>
-    <state width="1440" height="232" key="GridCell.Tab.0.center/0.0.1493.893@0.0.1493.893" timestamp="1606653987031" />
-    <state width="1440" height="232" key="GridCell.Tab.0.left" timestamp="1606653987031">
-      <screen x="0" y="0" width="1493" height="893" />
-    </state>
-    <state width="1440" height="232" key="GridCell.Tab.0.left/0.0.1493.893@0.0.1493.893" timestamp="1606653987031" />
-    <state width="1440" height="232" key="GridCell.Tab.0.right" timestamp="1606653987031">
-      <screen x="0" y="0" width="1493" height="893" />
-    </state>
-    <state width="1440" height="232" key="GridCell.Tab.0.right/0.0.1493.893@0.0.1493.893" timestamp="1606653987031" />
-    <state x="504" y="76" key="RollbackChangesDialog" timestamp="1606542125388">
-      <screen x="0" y="0" width="1493" height="893" />
-    </state>
-    <state x="504" y="76" key="RollbackChangesDialog/0.0.1493.893@0.0.1493.893" timestamp="1606542125388" />
-    <state x="87" y="7" key="SettingsEditor" timestamp="1606487298410">
-      <screen x="0" y="0" width="1493" height="893" />
-    </state>
-    <state x="87" y="7" key="SettingsEditor/0.0.1493.893@0.0.1493.893" timestamp="1606487298410" />
-    <state x="0" y="0" key="new project wizard" timestamp="1606490197747">
-      <screen x="0" y="0" width="1493" height="893" />
-    </state>
-    <state x="0" y="0" key="new project wizard/0.0.1493.893@0.0.1493.893" timestamp="1606490197747" />
+    <state x="326" y="0" width="840" height="1034" key="search.everywhere.popup/0.0.1493.893/2240.0.1440.860@0.0.1493.893" timestamp="1617806898210" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -279,6 +838,11 @@
           <url>file://$PROJECT_DIR$/owner-frame/src/test/java/ParamXSourceUpgradeTest.java</url>
           <line>28</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/WeChatApi/src/test/java/com/wechat/apiobject/DepartmentObject.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -14,6 +14,8 @@
         <module>junit5-web-selenium</module>
         <module>junit5-app-selenium</module>
         <module>owner-frame</module>
+        <module>mock-project</module>
+        <module>WeChatApi</module>
     </modules>
 
 

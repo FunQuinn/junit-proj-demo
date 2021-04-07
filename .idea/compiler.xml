@@ -9,9 +9,11 @@
         <module name="junit5webselenium" />
         <module name="junit5appselenium" />
         <module name="junit4demo" />
+        <module name="mock-project" />
         <module name="junit4-demo" />
         <module name="junit5-app-selenium" />
         <module name="junit5-web-selenium" />
+        <module name="WeChatApi" />
         <module name="owner-frame" />
         <module name="junit5-assertdemo" />
       </profile>
